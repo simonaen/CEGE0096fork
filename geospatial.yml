@@ -12,3 +12,4 @@ dependencies:
   - ipykernel>=6,<8
   - notebook>=7,<8
   - jupyterlab>=4,<5
+  - ipympl
